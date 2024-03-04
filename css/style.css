@@ -23,3 +23,16 @@ nav {
     display: flex;
     justify-content: center;
 }
+
+.btc img {
+    width: 50%;
+    border-color: orange;
+    border-width: 8px;
+    border-style: solid;
+}
+
+.btc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
