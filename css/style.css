@@ -1,13 +1,16 @@
-ul li {
-    background-color: bisque;
-}
-.menu {
-    background-color: purple;
-    font-size: xx-large;
-    color: seashell;
-}
-
 .cabecalho {
     background-color: violet;
     color:black;
+}
+
+.menu {
+    background-color: white;
+    font-size: xx-large;
+    color: black;
+}
+
+
+.rodape {
+    background-color: violet;
+    color: black;
 }
