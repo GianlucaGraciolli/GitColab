@@ -13,3 +13,40 @@ a {
     color: #fff;
     font-size: 1rem;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    color: orange;
+}
+
+nav {
+    background-color: orange;
+    color: black;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.dica_de_investimento {
+    font-size: 50px;
+    background-color: orange;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+}
+
+.btc img {
+    width: 50%;
+    border-color: orange;
+    border-width: 8px;
+    border-style: solid;
+}
+
+.btc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
